@@ -1,0 +1,9 @@
+﻿.clear{ clear:both}
+
+div.cau {width:870px;}
+div.cau-prev { width:28px; height:148px; background:#eee; margin-right:10px;  border:1px solid #ccc; float:left}
+div.cau-next { width:28px; height:148px; background:#eee; border:1px solid #ccc; float:right;}
+div.cau-body { position:relative; overflow:hidden; width:800px; height:150px;  float:left;}
+div.cau-items {position:absolute; left:0px; top:0px; height:150px; float:left}
+div.cau-item {width:148px; height:148px; margin-right:10px; background:#eee; border:1px solid #ccc; float:left;}
+
